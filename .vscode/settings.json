@@ -1,0 +1,8 @@
+{
+    "eslint.enable": true,
+    "prettier.requireConfig": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  }
+  }
